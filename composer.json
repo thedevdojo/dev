@@ -1,5 +1,5 @@
 {
-    "name": "dev/blog",
+    "name": "devblog/platform",
     "description": "The developer blog platform",
     "license": "MIT",
     "autoload": {
@@ -7,11 +7,9 @@
             "Dev\\Blog\\": "src/"
         }
     },
-    "authors": [
-        {
-            "name": "Tony Lea",
-            "email": "tony@devdojo.com"
-        }
-    ],
+    "authors": [{
+        "name": "Tony Lea",
+        "email": "tony@devdojo.com"
+    }],
     "require": {}
 }
