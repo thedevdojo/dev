@@ -1,0 +1,17 @@
+{
+    "name": "dev/blog",
+    "description": "The developer blog platform",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Dev\\Blog\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Tony Lea",
+            "email": "tony@devdojo.com"
+        }
+    ],
+    "require": {}
+}
